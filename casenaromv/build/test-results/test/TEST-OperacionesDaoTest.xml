@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OperacionesDaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-13T04:06:01" hostname="DESKTOP-N7TPPP7" time="0.145">
+  <properties/>
+  <testcase name="testConsultarSaldo()" classname="OperacionesDaoTest" time="0.145"/>
+  <system-out><![CDATA[Conexion exitosa
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
